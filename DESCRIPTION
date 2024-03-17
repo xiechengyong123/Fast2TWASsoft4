@@ -1,0 +1,14 @@
+Package: Fast2TWASsoft4
+Title: Fast2TWAS包的配套R包
+Version: 0.0.1
+Authors@R: 
+    person(given = "Chengyong",
+           family = "Xie",
+           role = c("aut", "cre"),
+           email = "xiechengyong@yeah.net")
+Description: Fast2TWAS包的配套R包，包含MR-JTI，PHESANT，SUPERGNOVA，rsidmap工具，easyanno，easylift，easymr，gwas-pw，gcta1.93.2
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
